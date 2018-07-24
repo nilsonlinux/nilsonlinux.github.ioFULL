@@ -20,18 +20,9 @@
         <label for="textarea1">Escreva</label>
     </div>
     <div class="row center">
-        <button class="btn waves-effect waves-light" type="submit" name="submit">ENVIAR<i class="material-icons right">send</i></button>
-        <button class="btn waves-effect waves-light" type="reset" name="reset">LIMPAR<i class="material-icons right">subject</i></button>
+        <button class="btn waves-effect waves-light" type="submit" name="submit">Enviar<i class="material-icons right">send</i></button>
+        <button class="btn waves-effect waves-light" type="reset" name="reset">Limpar os campos<i class="material-icons right">subject</i></button>
     </div>
 </form>
-
-
-
 <!--
-css: ["contact.css"]
-<div class="col s12">
-  <div class="icontain">
-    <iframe src="{{site.contact_url}}">Carregando...</iframe>
-  </div>
-</div>
 -->
