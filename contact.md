@@ -8,6 +8,8 @@
         <i class="material-icons prefix">comment</i>
         <textarea id="textarea1" class="materialize-textarea" name="entry.1651581134" required></textarea>
         <label for="textarea1">Mensagem</label>
+        </div>
+        <center><a target="_blank"><img class="" src="{{site.baseurl}}/assets/res/user.png"></a></center>
                <div class="row center">
         <button class="btn waves-effect waves-light" type="submit" name="submit">Enviar<i class="material-icons right">send</i></button>
         <button class="btn waves-effect waves-light" type="reset" name="reset">Limpar<i class="material-icons right">subject</i></button>
