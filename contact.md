@@ -1,10 +1,6 @@
 ---
----
-layout: page
-title: "Contato"
----
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSem00K5ihqoUuMr53pOnxZCFxrhqC87LaxkHI4DxyAFkNh0fg/viewform" method="post">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSem00K5ihqoUuMr53pOnxZCFxrhqC87LaxkHI4DxyAFkNh0fg/formResponse" method="post">
     <div class="input-field col s12">
         <i class="material-icons prefix">account_circle</i>
         <input id="icon_prefix" type="text" class="validate" name="entry.460529804" required>
@@ -13,7 +9,7 @@ title: "Contato"
     <div class="input-field col s12">
         <i class="material-icons prefix">call</i>
         <input id="icon_prefix" type="text" class="validate" name="entry.1412699251">
-        <label for="icon_prefix">Celular ex: (DDD) 9 0000-0000</label>
+        <label for="icon_prefix">Telefone</label>
     </div>
     <div class="input-field col s12">
         <i class="material-icons prefix">email</i>
