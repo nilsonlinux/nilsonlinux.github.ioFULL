@@ -21,7 +21,7 @@
     </div>
     <div class="row center">
         <button class="btn waves-effect waves-light" type="submit" name="submit">Enviar<i class="material-icons right">send</i></button>
-        <button class="btn waves-effect waves-light" type="reset" name="reset">Limpar os campos<i class="material-icons right">subject</i></button>
+        <button class="btn waves-effect waves-light" type="reset" name="reset">Limpar<i class="material-icons right">trash</i></button>
     </div>
 </form>
 <!--
