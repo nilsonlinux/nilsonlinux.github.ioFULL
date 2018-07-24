@@ -3,7 +3,7 @@ layout: page
 title: "Contato"
 ---
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScl434AfG-r2huqBq0o51aKGDsHTlGuC0DttD0teZdJgaP3SA/formResponse" method="post">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScl434AfG-r2huqBq0o51aKGDsHTlGuC0DttD0teZdJgaP3SA/viewform" method="post">
     <div class="input-field col s12">
         <i class="material-icons prefix">account_circle</i>
         <input id="icon_prefix" type="text" class="validate" name="entry.460529804" required>
