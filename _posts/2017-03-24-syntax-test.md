@@ -5,31 +5,5 @@ date:   2017-03-24 01:30:13 +0800
 categories: Default
 tags: test syntax
 ---
-Jekyll uses Rouge by default for syntax highlighting, here are some tests.
-
-Ruby:
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Python with line numbers:
-{% highlight python linenos %}
-def print_hi(name):
-    print("Hi, {}".format(name))
-
-print_hi('Tom')
-# prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-C with line numbers:
-{% highlight c linenos %}
-void print_hi(string name) {
-  printf("Hi, %s", name);
-}
-print_hi("Tom");
-/* prints 'Hi, Tom' to STDOUT. */
-{% endhighlight %}
+JWhat is Lorem Ipsum?
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
