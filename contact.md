@@ -10,11 +10,6 @@ title: "Contato"
         <label for="icon_prefix">Nome</label>
     </div>
     <div class="input-field col s12">
-        <i class="material-icons prefix">call</i>
-        <input id="icon_prefix" type="text" class="validate" name="entry.1412699251">
-        <label for="icon_prefix">Telefone</label>
-    </div>
-    <div class="input-field col s12">
         <i class="material-icons prefix">email</i>
         <input id="icon_prefix" type="text" class="validate" name="entry.836022871" required>
         <label for="icon_prefix">Email</label>
