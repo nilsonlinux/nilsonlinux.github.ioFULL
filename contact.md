@@ -1,5 +1,3 @@
----
-
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSem00K5ihqoUuMr53pOnxZCFxrhqC87LaxkHI4DxyAFkNh0fg/formResponse" method="post">
     <div class="input-field col s12">
         <i class="material-icons prefix">account_circle</i>
