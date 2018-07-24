@@ -8,7 +8,7 @@
         <i class="material-icons prefix">comment</i>
         <textarea id="textarea1" class="materialize-textarea" name="entry.1651581134" required></textarea>
         <label for="textarea1">Mensagem</label>
-            <center><a href="{{site.github_profile}}" target="_blank"><img class="circle z-depth-2" src="{{site.baseurl}}/assets/res/user.png"></a></center>
+           <div class="background"></div>
             <center><span class="white-text name">{{site.user}}</span></center>
             <center><span class="white-text email">{{site.user_email}}</span></center>
   </div>
