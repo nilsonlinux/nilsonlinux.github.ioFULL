@@ -8,22 +8,7 @@
         <i class="material-icons prefix">comment</i>
         <textarea id="textarea1" class="materialize-textarea" name="entry.1651581134" required></textarea>
         <label for="textarea1">Mensagem</label>
-<div class="col-s12 tag-div">
-  <div class="user-pic center-align">
-    <a href="{{site.github_profile}}" target="_blank"><img class="circle hoverable z-depth-1" src="{{site.baseurl}}/assets/res/user.png"></a>
-  </div>
-  <div class="user-intro center-align">
-    <h4 class="hidden">Sou Nilsonlinux, <span id="js-rotating">Web Design, Editor & Programador, Blogueiro, Youtuber, Técnico em Informática</span> ,Viva o Linux</h4>
-  </div>
-  <div class="user-content">
-       <p>
-      Eustou dando início ha um novo aprendizado em minha vida, a linguágem Phyton, e graças a você, que está sempre nos acompanhando a levar um conteúdo de qualidade e que serve de referência ha outros, minha contribuição não é gigantesca, mais me esforço ha cada dia...
-    </p>
-    <p>
-      Uso linux ha 8 anos e jamais pensei em deixar um sistema que entrou na minha vida pelas vêias. 
-    </p>
-  </div>
-</div>
+            <center><a href="{{site.github_profile}}" target="_blank"><img class="circle z-depth-2" src="{{site.baseurl}}/assets/res/icone_mensagens.png"></a></center>
           </div>
     <div class="row center">
         <button class="btn waves-effect waves-light" type="submit" name="submit">Enviar<i class="material-icons right">send</i></button>
