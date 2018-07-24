@@ -15,6 +15,15 @@
   <div class="user-intro center-align">
     <h4 class="hidden">Sou Nilsonlinux, <span id="js-rotating">Web Design, Editor & Programador, Blogueiro, Youtuber, Técnico em Informática</span> ,Viva o Linux</h4>
   </div>
+  <div class="user-content">
+       <p>
+      Eustou dando início ha um novo aprendizado em minha vida, a linguágem Phyton, e graças a você, que está sempre nos acompanhando a levar um conteúdo de qualidade e que serve de referência ha outros, minha contribuição não é gigantesca, mais me esforço ha cada dia...
+    </p>
+    <p>
+      Uso linux ha 8 anos e jamais pensei em deixar um sistema que entrou na minha vida pelas vêias. 
+    </p>
+  </div>
+</div>
           </div>
     <div class="row center">
         <button class="btn waves-effect waves-light" type="submit" name="submit">Enviar<i class="material-icons right">send</i></button>
