@@ -2,20 +2,26 @@
 layout: page
 title: "Contato"
 ---
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSem00K5ihqoUuMr53pOnxZCFxrhqC87LaxkHI4DxyAFkNh0fg/formResponse" method="post">
+
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSdlqWBRTnC3eGgPKVBQ01h5BqIC1dGHNRPTLWUlz-7BFjXptw/formResponse" method="post">
     <div class="input-field col s12">
         <i class="material-icons prefix">account_circle</i>
         <input id="icon_prefix" type="text" class="validate" name="entry.460529804" required>
         <label for="icon_prefix">Nome</label>
     </div>
     <div class="input-field col s12">
+        <i class="material-icons prefix">call</i>
+        <input id="icon_prefix" type="text" class="validate" name="entry.1412699251">
+        <label for="icon_prefix">Fone</label>
+    </div>
+    <div class="input-field col s12">
         <i class="material-icons prefix">email</i>
-        <input id="icon_prefix" type="text" class="validate" email="entry.836022871" required>
+        <input id="icon_prefix" type="text" class="validate" name="entry.836022871" required>
         <label for="icon_prefix">Email</label>
     </div>
     <div class="input-field col s12">
         <i class="material-icons prefix">comment</i>
-        <textarea id="textarea1" class="materialize-textarea" mensagem="entry.1651581134" required></textarea>
+        <textarea id="textarea1" class="materialize-textarea" name="entry.1651581134" required></textarea>
         <label for="textarea1">Escreva</label>
     </div>
     <div class="row center">
