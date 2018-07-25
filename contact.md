@@ -2,7 +2,6 @@
 layout: page
 title: "Contato"
 ---
-
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSfZU32bjBv2ll3F6HlGomTJ67U2J43OXBeiIFYIgCxX7CXpTQ/formResponse" method="post">
     <div class="input-field col s12">
         <i class="material-icons prefix">account_circle</i>
@@ -24,4 +23,3 @@ title: "Contato"
         <button class="btn waves-effect waves-light" type="reset" name="reset">LIMPAR<i class="material-icons right">subject</i></button>
     </div>
 </form>
-<!--
